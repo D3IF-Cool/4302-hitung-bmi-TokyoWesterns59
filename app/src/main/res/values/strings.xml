@@ -29,5 +29,7 @@
     Mobpro 1. Temukan kodenya di https://github.com/indraazimi/hitungbmi\n\nCopyright © 2021 Indra Azimi.\nAll rights reserved.</string>
     <string name="tentang_aplikasi">Tentang Aplikasi</string>
     <dimen name="horizontal_margin">16dp</dimen>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
 
 </resources>
